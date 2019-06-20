@@ -1,0 +1,1 @@
+A simple app that lets you login(validation only), then edit/add employees. Created using spring boot, mysql, and reactjs. You will need to have a mysql server up and running as well as change the application.properties file to run this on your own machine. 
